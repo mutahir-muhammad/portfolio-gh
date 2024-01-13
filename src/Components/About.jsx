@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Web Developer and student studying at International Islamic University. I enjoy writing, reading, dreaming and cre.";
+  "I'm a Web Developer and student studying at International Islamic University. I enjoy writing, reading, dreaming and creating.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
